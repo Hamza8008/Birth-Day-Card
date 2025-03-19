@@ -1,0 +1,27 @@
+com.example.birthday_card.app-jetified-activity-1.8.1-0 C:\Users\hamza\.gradle\caches\8.10.2\transforms\01529f9567bdf20307c1ed373e6b42bd\transformed\jetified-activity-1.8.1\res
+com.example.birthday_card.app-jetified-window-java-1.2.0-1 C:\Users\hamza\.gradle\caches\8.10.2\transforms\25e4bdbbcd8482d657ec5b0e713c8a62\transformed\jetified-window-java-1.2.0\res
+com.example.birthday_card.app-jetified-lifecycle-livedata-core-ktx-2.7.0-2 C:\Users\hamza\.gradle\caches\8.10.2\transforms\2da2a5489448d18cc033583fc184e7dd\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.birthday_card.app-lifecycle-runtime-2.7.0-3 C:\Users\hamza\.gradle\caches\8.10.2\transforms\2ed4bd4d470c242ca48a133b7a4f1162\transformed\lifecycle-runtime-2.7.0\res
+com.example.birthday_card.app-jetified-startup-runtime-1.1.1-4 C:\Users\hamza\.gradle\caches\8.10.2\transforms\55a68c16587bf342011247b17661c5fd\transformed\jetified-startup-runtime-1.1.1\res
+com.example.birthday_card.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-5 C:\Users\hamza\.gradle\caches\8.10.2\transforms\661141f79d39f0951d7d092cfee58d04\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.birthday_card.app-jetified-savedstate-1.2.1-6 C:\Users\hamza\.gradle\caches\8.10.2\transforms\71e3044b3e395194ce649e27f601752e\transformed\jetified-savedstate-1.2.1\res
+com.example.birthday_card.app-jetified-tracing-1.2.0-7 C:\Users\hamza\.gradle\caches\8.10.2\transforms\7a8201854016b21e2242313ebb2f74d8\transformed\jetified-tracing-1.2.0\res
+com.example.birthday_card.app-fragment-1.7.1-8 C:\Users\hamza\.gradle\caches\8.10.2\transforms\7abbb2a957fecbde6074de834347b18a\transformed\fragment-1.7.1\res
+com.example.birthday_card.app-jetified-annotation-experimental-1.4.0-9 C:\Users\hamza\.gradle\caches\8.10.2\transforms\8b1eaf3013482985abdddd5fb829a253\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.birthday_card.app-lifecycle-livedata-2.7.0-10 C:\Users\hamza\.gradle\caches\8.10.2\transforms\913b3864811086954ce678cdd26c0dee\transformed\lifecycle-livedata-2.7.0\res
+com.example.birthday_card.app-jetified-core-ktx-1.13.1-11 C:\Users\hamza\.gradle\caches\8.10.2\transforms\aa2551db2546832a886b7865f314ff67\transformed\jetified-core-ktx-1.13.1\res
+com.example.birthday_card.app-jetified-profileinstaller-1.3.1-12 C:\Users\hamza\.gradle\caches\8.10.2\transforms\aff7de192f9ba5dfca21b74a24ccfeff\transformed\jetified-profileinstaller-1.3.1\res
+com.example.birthday_card.app-core-1.13.1-13 C:\Users\hamza\.gradle\caches\8.10.2\transforms\b403b93df0faf124c664ce0ddbf62111\transformed\core-1.13.1\res
+com.example.birthday_card.app-lifecycle-livedata-core-2.7.0-14 C:\Users\hamza\.gradle\caches\8.10.2\transforms\b8f3dbd75cf45cfaecd2fa7cf014bd57\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.birthday_card.app-jetified-lifecycle-process-2.7.0-15 C:\Users\hamza\.gradle\caches\8.10.2\transforms\b93c04b7ace41b6d5c6f2c4a975bef0f\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.birthday_card.app-core-runtime-2.2.0-16 C:\Users\hamza\.gradle\caches\8.10.2\transforms\e3ca3e24afbfad07c455d464701a8a7a\transformed\core-runtime-2.2.0\res
+com.example.birthday_card.app-jetified-window-1.2.0-17 C:\Users\hamza\.gradle\caches\8.10.2\transforms\f101d6620daf2529e420adc32e7999bc\transformed\jetified-window-1.2.0\res
+com.example.birthday_card.app-jetified-core-1.0.0-18 C:\Users\hamza\.gradle\caches\8.10.2\transforms\f99a9e5b7ec3ded70d723ca87616b957\transformed\jetified-core-1.0.0\res
+com.example.birthday_card.app-lifecycle-viewmodel-2.7.0-19 C:\Users\hamza\.gradle\caches\8.10.2\transforms\fabde56b23601cda11d35f01fec01928\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.birthday_card.app-debug-20 D:\Flutter\Flutter Project\birthday_card\android\app\src\debug\res
+com.example.birthday_card.app-main-21 D:\Flutter\Flutter Project\birthday_card\android\app\src\main\res
+com.example.birthday_card.app-pngs-22 D:\Flutter\Flutter Project\birthday_card\build\app\generated\res\pngs\debug
+com.example.birthday_card.app-resValues-23 D:\Flutter\Flutter Project\birthday_card\build\app\generated\res\resValues\debug
+com.example.birthday_card.app-packageDebugResources-24 D:\Flutter\Flutter Project\birthday_card\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.birthday_card.app-packageDebugResources-25 D:\Flutter\Flutter Project\birthday_card\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.birthday_card.app-debug-26 D:\Flutter\Flutter Project\birthday_card\build\app\intermediates\merged_res\debug\mergeDebugResources
